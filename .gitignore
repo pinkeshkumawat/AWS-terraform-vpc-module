@@ -1,0 +1,9 @@
+.swp
+.*.sw*
+.DS_Store
+.terraform**
+custom.tf
+apps/
+*.zip
+*.tfstate*
+example/terraform1.tfvars
